@@ -1,4 +1,4 @@
-## Oi! Eu sou o Guilherme Nicolini 😁
+## Olá! Eu sou o Guilherme Nicolini 😁
 
  <div>
   <a href="https://github.com/guilherme-nicolini">
