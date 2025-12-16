@@ -10,7 +10,7 @@
   <img align="center" alt="sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="bi" height="30" width="40" src="https://icon-library.com/icon/power-bi-icon-20.html">
-  <img width="300" height="300" alt="power-bi-icon-20" src="https://github.com/user-attachments/assets/322bfb91-f222-4c1b-a671-8c12a6ec6419" />
+  <img align="center" alt="bi" height="30" width="40" src="https://github.com/user-attachments/assets/322bfb91-f222-4c1b-a671-8c12a6ec6419" />
 
 </div>
  
