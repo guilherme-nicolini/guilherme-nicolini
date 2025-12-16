@@ -9,7 +9,7 @@
   <img align="center" alt="py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="bi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg">
+  <img align="center" alt="bi" height="30" width="40" src="https://icon-library.com/icon/power-bi-icon-20.html">
   
 </div>
  
